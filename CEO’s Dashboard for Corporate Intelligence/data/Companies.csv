@@ -1,0 +1,101 @@
+CompanyID,CompanyName,Sector,Country,FoundedYear
+CMP0001,Price Inc,Industrial,USA,1903
+CMP0002,"Mcguire, Ramsey and Wheeler",Industrial,India,1931
+CMP0003,"Middleton, Williams and Vaughn",Finance,Germany,1994
+CMP0004,Durham PLC,Technology,Canada,1994
+CMP0005,Hanson-Stafford,Retail,USA,1975
+CMP0006,"Ramos, Dixon and Marquez",Energy,USA,1903
+CMP0007,"Espinoza, Clay and Gonzales",Technology,Germany,1929
+CMP0008,Day PLC,Retail,Brazil,1903
+CMP0009,"Hardy, Fernandez and Wyatt",Retail,Germany,1991
+CMP0010,"Walton, Williamson and Henderson",Industrial,Canada,1969
+CMP0011,"Jackson, Sanders and Nichols",Energy,Germany,1957
+CMP0012,Reid Ltd,Retail,India,2003
+CMP0013,Lee-Smith,Utilities,USA,1997
+CMP0014,Hill Inc,Utilities,Germany,1989
+CMP0015,"Lester, Brennan and Perry",Energy,India,1935
+CMP0016,White LLC,Finance,Germany,1997
+CMP0017,Christensen-Munoz,Healthcare,USA,1911
+CMP0018,Duncan Inc,Energy,USA,1945
+CMP0019,Mann Group,Utilities,India,1977
+CMP0020,Mcclure Ltd,Healthcare,UK,1905
+CMP0021,Cooper-Merritt,Industrial,Japan,1968
+CMP0022,"Soto, Watson and Brown",Technology,Japan,1910
+CMP0023,Hickman-Kirby,Retail,India,1980
+CMP0024,Anderson-Carrillo,Retail,UK,1946
+CMP0025,Rodriguez-Rivera,Retail,Germany,1990
+CMP0026,"Stephens, Case and Flynn",Technology,USA,1984
+CMP0027,Sanchez Ltd,Finance,UK,1937
+CMP0028,Diaz-Klein,Technology,UK,1929
+CMP0029,Foster and Sons,Utilities,USA,1948
+CMP0030,"Lin, Campbell and Johnson",Healthcare,Japan,1981
+CMP0031,Juarez LLC,Utilities,India,1920
+CMP0032,Rodriguez Group,Healthcare,India,1926
+CMP0033,"Thompson, Clark and Mathews",Industrial,India,1989
+CMP0034,Wright-Flores,Industrial,Canada,1909
+CMP0035,"Powers, Brown and Rivera",Retail,Canada,1921
+CMP0036,Becker LLC,Retail,Canada,1931
+CMP0037,"Kelly, Jackson and Wilson",Finance,Japan,1948
+CMP0038,Tucker PLC,Healthcare,Canada,1988
+CMP0039,Marshall and Sons,Retail,Germany,1987
+CMP0040,Wiggins-Green,Healthcare,UK,1998
+CMP0041,Schultz-Brown,Utilities,USA,1929
+CMP0042,Lamb Inc,Utilities,USA,2003
+CMP0043,Robinson and Sons,Healthcare,Japan,1934
+CMP0044,"Green, Weiss and Martin",Technology,Germany,1972
+CMP0045,Madden PLC,Industrial,India,1927
+CMP0046,Shah-Martinez,Industrial,Japan,1950
+CMP0047,Campbell LLC,Industrial,Japan,1918
+CMP0048,"Park, Johnson and Coleman",Healthcare,Germany,1931
+CMP0049,Taylor-Munoz,Industrial,Brazil,1968
+CMP0050,Pratt-Higgins,Healthcare,Canada,1974
+CMP0051,Carter-Johnson,Energy,Brazil,1951
+CMP0052,Hendrix and Sons,Healthcare,Germany,1917
+CMP0053,Page-Fletcher,Retail,Japan,1911
+CMP0054,Weaver-Burns,Utilities,USA,1914
+CMP0055,"Mitchell, Stevens and Walters",Finance,Canada,1920
+CMP0056,Graham and Sons,Utilities,Canada,1954
+CMP0057,Watson-Taylor,Retail,USA,1949
+CMP0058,Stewart-Henry,Energy,Brazil,1959
+CMP0059,"Palmer, Ramirez and Anderson",Retail,India,1970
+CMP0060,Bartlett-Knapp,Utilities,USA,1987
+CMP0061,"Norman, Rhodes and Rice",Industrial,USA,1987
+CMP0062,Wright-Lawson,Retail,UK,1934
+CMP0063,"Morrison, Serrano and Watson",Utilities,Canada,1943
+CMP0064,Medina Group,Technology,India,1955
+CMP0065,"Ferguson, Dixon and Sanchez",Finance,Japan,1900
+CMP0066,Scott Ltd,Industrial,Canada,1933
+CMP0067,Ward and Sons,Retail,UK,1922
+CMP0068,Chen Ltd,Retail,USA,1980
+CMP0069,Tucker-Johnson,Healthcare,UK,1981
+CMP0070,Wallace-Fox,Retail,Brazil,1925
+CMP0071,Carter-Curtis,Finance,India,1997
+CMP0072,Burns Group,Finance,Brazil,1999
+CMP0073,Vega and Sons,Retail,USA,1976
+CMP0074,"Malone, Gill and Byrd",Healthcare,Japan,1902
+CMP0075,Haynes PLC,Technology,India,2003
+CMP0076,Robbins-Walker,Healthcare,Germany,1907
+CMP0077,Johnson-Eaton,Finance,Brazil,1910
+CMP0078,Gordon-Jones,Technology,Canada,1962
+CMP0079,"Huffman, Rice and English",Utilities,USA,1997
+CMP0080,Liu-Lopez,Retail,UK,1916
+CMP0081,"Chandler, Stephenson and Rivera",Finance,Canada,1960
+CMP0082,Wheeler-Roman,Retail,Germany,1933
+CMP0083,"Gray, Wright and Young",Retail,UK,1977
+CMP0084,Kim-Snyder,Energy,Germany,1969
+CMP0085,"Henry, Huber and Sandoval",Utilities,Canada,1988
+CMP0086,Washington Ltd,Finance,Canada,1939
+CMP0087,"Roberson, Thompson and Brennan",Energy,Canada,1983
+CMP0088,Guerrero-Hardy,Healthcare,Japan,1966
+CMP0089,"Thomas, Dickerson and Herrera",Energy,USA,1931
+CMP0090,Long-Holland,Finance,USA,1943
+CMP0091,"Smith, Brown and Hill",Technology,Brazil,1970
+CMP0092,"Johnson, Cook and Bautista",Finance,Brazil,1928
+CMP0093,Richard-Martin,Technology,USA,1990
+CMP0094,Hamilton PLC,Industrial,USA,1929
+CMP0095,Martinez-Harvey,Technology,USA,1942
+CMP0096,Mitchell and Sons,Technology,Brazil,1930
+CMP0097,"Hopkins, Green and Edwards",Healthcare,Canada,1962
+CMP0098,"Parks, Santos and Zavala",Finance,Brazil,1916
+CMP0099,White PLC,Industrial,Brazil,1973
+CMP0100,Cox-Pennington,Energy,Germany,2000
